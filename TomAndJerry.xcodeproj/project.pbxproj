@@ -13,6 +13,7 @@
 		820A9D2828C7765200A92E74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 820A9D2628C7765200A92E74 /* Main.storyboard */; };
 		820A9D2A28C7765300A92E74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 820A9D2928C7765300A92E74 /* Assets.xcassets */; };
 		820A9D2D28C7765300A92E74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 820A9D2B28C7765300A92E74 /* LaunchScreen.storyboard */; };
+		820A9D3528C7A56800A92E74 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 820A9D3428C7A56800A92E74 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		820A9D2928C7765300A92E74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		820A9D2C28C7765300A92E74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		820A9D2E28C7765300A92E74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		820A9D3428C7A56800A92E74 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				820A9D2028C7765200A92E74 /* AppDelegate.swift */,
 				820A9D2228C7765200A92E74 /* SceneDelegate.swift */,
 				820A9D2428C7765200A92E74 /* ViewController.swift */,
+				820A9D3428C7A56800A92E74 /* HomeViewController.swift */,
 				820A9D2628C7765200A92E74 /* Main.storyboard */,
 				820A9D2928C7765300A92E74 /* Assets.xcassets */,
 				820A9D2B28C7765300A92E74 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				820A9D2528C7765200A92E74 /* ViewController.swift in Sources */,
 				820A9D2128C7765200A92E74 /* AppDelegate.swift in Sources */,
 				820A9D2328C7765200A92E74 /* SceneDelegate.swift in Sources */,
+				820A9D3528C7A56800A92E74 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
